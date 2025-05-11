@@ -23,4 +23,4 @@ Este projeto é um script simples feito em *Python* que calcula quantos dias já
 3. Execute o script no terminal ou no seu editor de preferência:
 
 ```bash
-python aniversario.py
+calculadora_de_mes.py
